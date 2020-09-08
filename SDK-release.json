@@ -1,18 +1,42 @@
 {
   "JSP":{
-    "releaseDate":"2020.09.18",
-    "version":"1.0.0"
+    "releaseDate":"2020.05.18",
+    "version":"2.0.0"
     },
   "Spring":{
-    "releaseDate":"2020.08.18",
+    "releaseDate":"2020.05.18",
+    "version":"2.0.0"
+    },
+  "PHP5":{
+    "releaseData":"2020.08.31",
     "version":"1.0.0"
     },
-  "PHP5":"2020.08.31",
-  "PHP7":"2020.07.16",
-  "Dotnet":"2020.05.28",
-  "DotnetCore":"2020.05.28",
-  "Node":"2020.08.31",
-  "Python":"2020.05.28",
-  "ASP":"2020.05.28",
-  "Ruby":"2020.06.23"
+  "PHP7":{
+    "releaseData":"2020.07.16",
+    "version":"1.2.0"
+    },
+  "Dotnet":{
+    "releaseData":"2020.05.28",
+    "sdkVersion":"1.0.0"
+    },
+  "DotnetCore":{
+    "releaseData":"2020.05.28",
+    "sdkVersion":"1.0.0"
+    },
+  "Node":{
+    "releaseData":"2020.08.31",
+    "sdkVersion":"1.1.0"
+    },
+  "Python":{
+    "releaseData":"2020.05.28",
+    "sdkVersion":"1.0.0"
+    },
+  "ASP":{
+    "releaseData":"2020.05.28",
+    "sdkVersion":"1.0.0"
+    },
+  "Ruby":{
+    "releaseData":"2020.06.23",
+    "sdkVersion":"1.0.2"
+    }
 }
