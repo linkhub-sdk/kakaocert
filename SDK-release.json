@@ -1,11 +1,11 @@
 {
   "JSP":{
     "releaseDate":"2020.10.29",
-    "version":"2.0.0"
+    "version":"2.1.0"
     },
   "Spring":{
-    "releaseDate":"2020.09.14",
-    "version":"2.0.0"
+    "releaseDate":"2020.12.10",
+    "version":"2.1.0"
     },
   "PHP5":{
     "releaseDate":"2020.09.14"
