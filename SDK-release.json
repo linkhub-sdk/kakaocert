@@ -7,6 +7,10 @@
     "releaseDate":"2021.10.07",
     "version":"2.50.0"
     },
+  "SpringBoot":{
+    "releaseDate":"2022.01.20",
+    "version":"2.50.0"
+    },
   "PHP5":{
     "releaseDate":"2021.10.07"
     },
